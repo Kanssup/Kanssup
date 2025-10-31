@@ -46,9 +46,9 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,vscode,django,git" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" width="75" />
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40" title="Arduino" />
-  <img src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21~bgwhite.svg" width="75" />
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/-0096D6?style=flat&logo=hp&logoSize=auto&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-00B8FC?style=flat&logo=logitechg&logoSize=auto&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-FA4454?style=flat&logo=valorant&logoSize=auto&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-0070D1?style=flat&logo=playstation&logoSize=auto&">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-5865F2?style=flat&logo=discord&logoSize=auto&color=white">
 </p>
