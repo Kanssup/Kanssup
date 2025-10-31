@@ -1,16 +1,16 @@
 <!-- 🌿 Minimal GitHub Portfolio Style -->
 
-<h1 align="center">👋 Hola, soy <span style="color:#00bfa6;">Tu Nombre</span></h1>
+<h1 align="center">👋 Hola, soy <span style="color:#00bfa6;">Misael Vanegas</span></h1>
 
 <p align="center">
-Desarrollador Full Stack | Amante del código limpio y el diseño minimalista ✨  
+Estudiante de Ingerieria en Cibernética Eléctronica en ULSA-(Nicaragua) ✨  
 </p>
 
 ---
 
 ### 🧩 Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,git,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,html,css,django,python,vscode" />
 </p>
 
 ---
