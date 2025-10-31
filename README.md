@@ -1,30 +1,27 @@
-<!-- 🌿 Minimal GitHub Portfolio Style -->
-
 <h1 align="center">👋 Hola, soy <span style="color:#00bfa6;">Misael Vanegas</span></h1>
 
 <p align="center">
-Estudiante de Ingerieria en Cibernética Eléctronica en ULSA-(Nicaragua) ✨  
+Estudiante de Ingerieria en Cibernética Eléctronica
 </p>
 
 ---
 
 ### 🧩 Tecnologías y herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,html,css,django,python,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,python,vscode" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=%2300599C">
 </p>
 
 ---
 
 ### 🚀 Lo que estoy haciendo
-- 🔭 Construyendo proyectos personales y herramientas open-source  
-- 🌱 Aprendiendo más sobre **arquitectura de software** y **automatización**  
+- 🔭 Construyendo proyectos personales y herramientas 
+- 🌱 Aprendiendo más sobre **backend** y **frontend**  
 - 🎯 Buscando mejorar cada día en **código limpio y diseño de sistemas**
-
----
-
-### 🗂️ Proyectos destacados
-🌐 [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1) — descripción breve  
-⚙️ [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) — descripción breve  
 
 ---
 
@@ -38,6 +35,6 @@ Estudiante de Ingerieria en Cibernética Eléctronica en ULSA-(Nicaragua) ✨
 ---
 
 <p align="center">
-  <sub>💡 “Simplicidad es la máxima sofisticación.” — Leonardo da Vinci</sub>
+  <sub>💡 “Bueno, vamo a jugar</sub>
 </p>
 
